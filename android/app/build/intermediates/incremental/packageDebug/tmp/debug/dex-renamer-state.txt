@@ -1,0 +1,4 @@
+#Sat Apr 25 18:48:23 EET 2020
+base.0=D\:\\react native projects\\react-native-form-validation-master\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex
